@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>iQuiz3.xcscheme</key>
+		<key>iQuiz2.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>AADE48191C118CBE00B0D11E</key>
+		<key>AA3F65991BFE94AC000E0EE7</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>AADE482D1C118CBE00B0D11E</key>
+		<key>AA3F65AD1BFE94B0000E0EE7</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>AADE48381C118CBE00B0D11E</key>
+		<key>AA3F65B81BFE94B0000E0EE7</key>
 		<dict>
 			<key>primary</key>
 			<true/>

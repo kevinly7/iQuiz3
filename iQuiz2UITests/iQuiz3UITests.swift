@@ -1,8 +1,8 @@
 //
-//  iQuiz3UITests.swift
-//  iQuiz3UITests
+//  iQuiz2UITests.swift
+//  iQuiz2UITests
 //
-//  Created by Kevin Ly on 12/4/15.
+//  Created by Kevin Ly on 11/19/15.
 //  Copyright © 2015 Kevin Ly. All rights reserved.
 //
 

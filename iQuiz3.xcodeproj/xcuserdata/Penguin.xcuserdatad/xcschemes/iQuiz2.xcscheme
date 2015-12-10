@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "AADE48191C118CBE00B0D11E"
+               BlueprintIdentifier = "AA3F65991BFE94AC000E0EE7"
                BuildableName = "iQuiz3.app"
                BlueprintName = "iQuiz3"
                ReferencedContainer = "container:iQuiz3.xcodeproj">
@@ -32,8 +32,8 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "AADE482D1C118CBE00B0D11E"
-               BuildableName = "iQuiz3Tests.xctest"
+               BlueprintIdentifier = "AA3F65AD1BFE94B0000E0EE7"
+               BuildableName = "iQuiz3.xctest"
                BlueprintName = "iQuiz3Tests"
                ReferencedContainer = "container:iQuiz3.xcodeproj">
             </BuildableReference>
@@ -42,8 +42,8 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "AADE48381C118CBE00B0D11E"
-               BuildableName = "iQuiz3UITests.xctest"
+               BlueprintIdentifier = "AA3F65B81BFE94B0000E0EE7"
+               BuildableName = "iQuiz3.xctest"
                BlueprintName = "iQuiz3UITests"
                ReferencedContainer = "container:iQuiz3.xcodeproj">
             </BuildableReference>
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "AADE48191C118CBE00B0D11E"
+            BlueprintIdentifier = "AA3F65991BFE94AC000E0EE7"
             BuildableName = "iQuiz3.app"
             BlueprintName = "iQuiz3"
             ReferencedContainer = "container:iQuiz3.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "AADE48191C118CBE00B0D11E"
+            BlueprintIdentifier = "AA3F65991BFE94AC000E0EE7"
             BuildableName = "iQuiz3.app"
             BlueprintName = "iQuiz3"
             ReferencedContainer = "container:iQuiz3.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "AADE48191C118CBE00B0D11E"
+            BlueprintIdentifier = "AA3F65991BFE94AC000E0EE7"
             BuildableName = "iQuiz3.app"
             BlueprintName = "iQuiz3"
             ReferencedContainer = "container:iQuiz3.xcodeproj">

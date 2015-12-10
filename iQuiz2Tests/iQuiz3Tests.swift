@@ -1,15 +1,15 @@
 //
-//  iQuiz3Tests.swift
-//  iQuiz3Tests
+//  iQuiz2Tests.swift
+//  iQuiz2Tests
 //
-//  Created by Kevin Ly on 12/4/15.
+//  Created by Kevin Ly on 11/19/15.
 //  Copyright © 2015 Kevin Ly. All rights reserved.
 //
 
 import XCTest
-@testable import iQuiz3
+@testable import iQuiz2
 
-class iQuiz3Tests: XCTestCase {
+class iQuiz2Tests: XCTestCase {
     
     override func setUp() {
         super.setUp()
